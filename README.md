@@ -4,10 +4,10 @@
   <img src="./Fisheries-Research-Vessel2-scaled.jpg" alt="Fish Research Vessel" width="100%">
 </p>
 
-<h1 align="center">Fish Research Vessel (FRV)</h1>
+<h1 align="center">Self Propelled Floating Crane</h1>
 
 <p align="center">
-  <strong>Designed and Constructed for Bangladesh Fisheries Research Institute (BFRI)</strong>
+  <strong>Designed and Constructed for Bangladesh Coast Guard (BCG)</strong>
 </p>
 
 <p align="center">
@@ -22,9 +22,7 @@
 
 ## Project Summary
 
-The Fish Research Vessel (FRV) was developed for the Bangladesh Fisheries Research Institute (BFRI) to support fisheries research, marine resource assessment, environmental monitoring, and scientific survey operations in Bangladesh's coastal and inland waters.
-
-The vessel incorporates modern fish-finding equipment, dedicated laboratory facilities, and survey capabilities to support long-term fisheries management and marine research programs.
+The Self-Propelled Floating Crane has been acquired to enhance the operational capability of the Bangladesh Coast Guard in inland and coastal waters. The vessel is designed to support rescue and salvage operations by recovering sunken boats of up to approximately 35 tons. It is also capable of transporting heavy machinery and equipment between ships and shore facilities, as well as lifting boats, engines, and other heavy loads from jetties to shore or onto vessel decks. The floating crane serves as a versatile marine support platform, strengthening the Coast Guard’s capacity for salvage, logistics, and maintenance operations.
 
 ---
 
@@ -32,13 +30,13 @@ The vessel incorporates modern fish-finding equipment, dedicated laboratory faci
 
 | Particular           | Value                                   |
 | -------------------- | --------------------------------------- |
-| Length Overall (LOA) | 25.00 m                                 |
-| Breadth (Moulded)    | 6.00 m                                  |
-| Depth (Moulded)      | 2.80 m                                  |
-| Draft                | 1.40 m                                  |
-| Maximum Speed        | 10 Knots                                |
-| Classification       | Department of Shipping (DOS)            |
-| Special Features     | Fish Finder System, Research Laboratory |
+| Length Overall (LOA) | 41.00 m                                 |
+| Breadth (Moulded)    | 15.00 m                                 |
+| Depth (Moulded)      | 2.70 m                                  |
+| Draft                | 1.65 m                                  |
+| Maximum Speed        | 8 Knots                                 |
+| Classification       | Bureau Veritas (BV)                     |
+| Special Features     | rescue and salvage operations           |
 
 ---
 
