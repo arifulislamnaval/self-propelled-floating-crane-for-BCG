@@ -1,7 +1,7 @@
 # 01 x Self Propelled Floating Crane for Bangladesh Coast Guard
 
 <p align="center">
-  <img src="./Fisheries-Research-Vessel2-scaled.jpg" alt="Fish Research Vessel" width="100%">
+  <img src="./Fisheries-Research-Vessel2-scaled.jpg" alt="Self Propelled Floating Cranel" width="100%">
 </p>
 
 <h1 align="center">Self Propelled Floating Crane</h1>
