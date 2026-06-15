@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Length-25.0m-00599C" />
-  <img src="https://img.shields.io/badge/Breadth-6.0m-1F8B4C" />
-  <img src="https://img.shields.io/badge/Depth-2.8m-F39C12" />
-  <img src="https://img.shields.io/badge/Speed-10%20Knots-C0392B" />
-  <img src="https://img.shields.io/badge/Class-DOS-2ECC71" />
+  <img src="https://img.shields.io/badge/Length-41.0m-00599C" />
+  <img src="https://img.shields.io/badge/Breadth-15.0m-1F8B4C" />
+  <img src="https://img.shields.io/badge/Depth-2.7m-F39C12" />
+  <img src="https://img.shields.io/badge/Speed-8%20Knots-C0392B" />
+  <img src="https://img.shields.io/badge/Class-BV-2ECC71" />
 </p>
 
 ---
