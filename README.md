@@ -36,7 +36,7 @@ The Self-Propelled Floating Crane has been acquired to enhance the operational c
 | Draft                | 1.65 m                                  |
 | Main Engines         | 2 ×  416 HP Caterpillar                 |
 | Generator            | 1 × 69 ekW Caterpilar                   |
-| Crane            | 70 Ton Capacity Telescopic Knuckle Boom Crane|
+| Crane            | 70 Ton Capacity Telescopic Knuckle Boom Crane Heila|
 | Maximum Speed        | 8 Knots                                 |
 | Classification       | Bureau Veritas (BV)                     |
 | Special Features     | rescue and salvage operations           |
