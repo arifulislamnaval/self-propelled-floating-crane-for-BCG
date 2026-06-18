@@ -67,7 +67,7 @@ Key responsibilities throughout the project lifecycle included:
 
 ## Project Outcome
 
-The Fish Research Vessel was successfully completed, tested, commissioned, and delivered to the Bangladesh Fisheries Research Institute. The vessel now serves as a dedicated platform for fisheries research, environmental monitoring, and scientific data collection in support of sustainable fisheries management.
+The successful acquisition of the Self-Propelled Floating Crane has significantly enhanced the Bangladesh Coast Guard’s operational capability in inland and coastal waters, establishing a versatile marine support platform. The vessel successfully strengthens the Coast Guard’s capacity for salvage, logistics, and maintenance by enabling the recovery of sunken boats up to 35 tons, streamlining the ship-to-shore transport of heavy machinery, and facilitating efficient heavy-load lifting from jetties to vessel decks.
 
 ---
 
