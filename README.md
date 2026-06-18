@@ -1,4 +1,4 @@
-# 01 x Self Propelled Floating Crane for Bangladesh Coast Guard
+# 01 x SELF PROPELLED FLOATING CRANE
 
 <p align="center">
   <img src="./Floating CRane.jpg" alt="Self Propelled Floating Cranel" width="100%">
