@@ -39,7 +39,7 @@ The Self-Propelled Floating Crane has been acquired to enhance the operational c
 | Maximum Speed        | 8 Knots                                 |
 | Classification       | Bureau Veritas (BV)                     |
 | Special Features     | rescue and salvage operations           |
-| Client               | Bangladesh Fisheries Research Institute (BFRI) |
+| Client               | Bangladesh Coast guard                   |
 | Delivery Date        | 11 May 2022                              |
 
 
