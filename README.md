@@ -34,57 +34,18 @@ The Self-Propelled Floating Crane has been acquired to enhance the operational c
 | Breadth (Moulded)    | 15.00 m                                 |
 | Depth (Moulded)      | 2.70 m                                  |
 | Draft                | 1.65 m                                  |
+| Main Engines         | 2 ×  416 HP Caterpillar                 |
+| Generator            | 1 × 69 ekW Caterpilar                   |
 | Maximum Speed        | 8 Knots                                 |
 | Classification       | Bureau Veritas (BV)                     |
 | Special Features     | rescue and salvage operations           |
+| Client               | Bangladesh Fisheries Research Institute (BFRI) |
+| Delivery Date        | 11 May 2022                              |
+
+
 
 ---
 
-## Client Information
-
-| Item                     | Details                                        |
-| ------------------------ | ---------------------------------------------- |
-| Client                   | Bangladesh Fisheries Research Institute (BFRI) |
-| Classification Authority | Department of Shipping (DOS)                   |
-| Contract Signing Date    | 13 May 2019                                    |
-| Delivery Date            | 30 September 2021                              |
-
----
-
-## Machinery and Equipment
-
-### Main Propulsion System
-
-| Item                  | Specification |
-| --------------------- | ------------- |
-| Engine Manufacturer   | Yanmar        |
-| Country of Origin     | Japan         |
-| Quantity              | 2 Units       |
-| Rated Power           | 255 HP × 2    |
-| Total Installed Power | 510 HP        |
-
-### Electrical Power Generation
-
-| Item                   | Specification   |
-| ---------------------- | --------------- |
-| Generator Manufacturer | Beta Marine Ltd |
-| Country of Origin      | United Kingdom  |
-| Quantity               | 1 Unit          |
-| Capacity               | 37 kVA          |
-
----
-
-## Research and Survey Capabilities
-
-* Fisheries resource assessment
-* Fish stock monitoring
-* Hydro-biological sampling
-* Environmental data collection
-* Fish-finder-assisted survey operations
-* Onboard laboratory testing and analysis
-* Coastal and inland water research missions
-
----
 
 ## My Contribution
 
@@ -101,34 +62,6 @@ Key responsibilities throughout the project lifecycle included:
 * Client communication and reporting
 * Delivery, commissioning, and project closeout support
 
----
-
-## Engineering Highlights
-
-* Purpose-built fisheries research platform
-* Integrated fish-finding and survey systems
-* Dedicated onboard research laboratory
-* Twin-engine propulsion arrangement
-* Compliance with Department of Shipping requirements
-* Successfully delivered and commissioned for operational service
-
----
-
-## Technical Overview
-
-| Parameter      | Specification              |
-| -------------- | -------------------------- |
-| Length Overall | 25.00 m                    |
-| Breadth (Mld.) | 6.00 m                     |
-| Depth (Mld.)   | 2.80 m                     |
-| Draft          | 1.40 m                     |
-| Maximum Speed  | 10 Knots                   |
-| Main Engines   | 2 × 255 HP Yanmar          |
-| Generator      | 1 × 37 kVA Beta Marine Ltd |
-| Classification | DOS                        |
-| Client         | BFRI                       |
-| Contract Date  | 13 May 2019                |
-| Delivery Date  | 30 September 2021          |
 
 ---
 
