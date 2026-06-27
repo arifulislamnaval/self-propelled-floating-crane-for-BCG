@@ -1,77 +1,161 @@
-# 01 x 70 TON CAPACITY SELF PROPELLED FLOATING CRANE
+# 🚢 70 Ton Self-Propelled Floating Crane
 
 <p align="center">
-  <img src="./Floating CRane.jpg" alt="Self Propelled Floating Cranel" width="100%">
+  <img src="./Floating CRane.jpg" alt="70 Ton Self-Propelled Floating Crane" width="100%">
 </p>
 
-<h1 align="center">Self Propelled Floating Crane</h1>
+<h2 align="center">
+Bangladesh Coast Guard (BCG)
+</h2>
 
 <p align="center">
-  <strong>Designed and Constructed for Bangladesh Coast Guard (BCG)</strong>
+<b>Project Coordinator | Naval Architect | Construction Support</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Length-41.0m-00599C" />
-  <img src="https://img.shields.io/badge/Breadth-15.0m-1F8B4C" />
-  <img src="https://img.shields.io/badge/Depth-2.7m-F39C12" />
-  <img src="https://img.shields.io/badge/Speed-8%20Knots-C0392B" />
-  <img src="https://img.shields.io/badge/Class-BV-2ECC71" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Client-Bangladesh%20Coast%20Guard-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Class-Bureau%20Veritas-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Delivery-2022-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## Project Summary
+# 📌 Project Overview
 
-The Self-Propelled Floating Crane has been acquired to enhance the operational capability of the Bangladesh Coast Guard in inland and coastal waters. The vessel is designed to support rescue and salvage operations by recovering sunken boats of up to approximately 35 tons. It is also capable of transporting heavy machinery and equipment between ships and shore facilities, as well as lifting boats, engines, and other heavy loads from jetties to shore or onto vessel decks. The floating crane serves as a versatile marine support platform, strengthening the Coast Guard’s capacity for salvage, logistics, and maintenance operations.
-
----
-
-## Principal Particulars
-
-| Particular           | Value                                   |
-| -------------------- | --------------------------------------- |
-| Length Overall (LOA) | 41.00 m                                 |
-| Breadth (Moulded)    | 15.00 m                                 |
-| Depth (Moulded)      | 2.70 m                                  |
-| Draft                | 1.65 m                                  |
-| Main Engines         | 2 ×  416 HP Caterpillar                 |
-| Generator            | 1 × 69 ekW Caterpilar                   |
-| Crane            | 70 Ton Capacity Telescopic Knuckle Boom Crane Heila|
-| Maximum Speed        | 8 Knots                                 |
-| Classification       | Bureau Veritas (BV)                     |
-| Special Features     | rescue and salvage operations           |
-| Client               | Bangladesh Coast guard                   |
-| Delivery Date        | 11 May 2022                              |
-
-
+| Item | Details |
+|------|---------|
+| **Project Type** | Self-Propelled Floating Crane |
+| **Client** | Bangladesh Coast Guard |
+| **Role** | Project Coordinator & Naval Architect |
+| **Classification** | Bureau Veritas (BV) |
+| **Delivery** | 11 May 2022 |
+| **Project Status** | ✅ Completed & Delivered |
 
 ---
 
+# 📖 Project Summary
 
-## My Contribution
-
-### Naval Architect & Project Coordinator
-
-Key responsibilities throughout the project lifecycle included:
-
-* Project planning and execution management
-* Naval architecture support and design review
-* Technical coordination with stakeholders
-* Procurement and vendor coordination
-* Construction supervision and progress monitoring
-* Quality assurance and inspection activities
-* Client communication and reporting
-* Delivery, commissioning, and project closeout support
-
+The **70 Ton Self-Propelled Floating Crane** was designed and constructed to strengthen the operational capability of the Bangladesh Coast Guard in inland and coastal waters. The vessel supports **rescue and salvage operations**, heavy equipment transportation, maintenance activities, and lifting operations using a **70-ton telescopic knuckle boom crane**. The project was successfully delivered in compliance with **Bureau Veritas classification requirements** and applicable **IMO regulations**.
 
 ---
 
-## Project Outcome
+# 📐 Principal Particulars
 
-The successful acquisition of the Self-Propelled Floating Crane has significantly enhanced the Bangladesh Coast Guard’s operational capability in inland and coastal waters, establishing a versatile marine support platform. The vessel successfully strengthens the Coast Guard’s capacity for salvage, logistics, and maintenance by enabling the recovery of sunken boats up to 35 tons, streamlining the ship-to-shore transport of heavy machinery, and facilitating efficient heavy-load lifting from jetties to vessel decks.
+| Particular | Value |
+|------------|-------|
+| Length Overall | **41.00 m** |
+| Breadth | **15.00 m** |
+| Depth | **2.70 m** |
+| Draft | **1.65 m** |
+| Main Engines | **2 × Caterpillar 416 HP** |
+| Generator | **1 × Caterpillar 69 kW** |
+| Crane | **70 Ton Telescopic Knuckle Boom Crane (Heila)** |
+| Maximum Speed | **8 Knots** |
+| Classification | **Bureau Veritas (BV)** |
 
 ---
 
-## Project Status
+# 💻 Software Used
 
-**Completed and Delivered**
+<p>
+
+<img src="https://img.shields.io/badge/Maxsurf-Hydrostatics%20%26%20Stability-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Rhino3D-3D%20Modeling-lightgrey?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/ANSYS-Structural%20Analysis-orange?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AutoCAD-Production%20Drawings-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AVEVA%20Marine-Production%20Engineering-blueviolet?style=flat-square"/>
+
+</p>
+
+---
+
+# 🛠 Engineering Scope
+
+- Ship Design Review
+- Hull Structural Engineering
+- Production Engineering
+- Construction Support
+- Quality Assurance & Inspection
+- Technical Coordination
+- Procurement Support
+- Classification Society Liaison
+- Sea Trials
+- Commissioning
+
+---
+
+# 👨‍💼 My Contribution
+
+### Project Coordinator & Naval Architect
+
+Throughout the project lifecycle, I was responsible for:
+
+- Coordinating project execution from design through delivery
+- Reviewing ship design and structural documentation
+- Managing technical coordination with stakeholders
+- Supervising construction progress and quality assurance
+- Coordinating procurement and vendor activities
+- Liaising with the client and Bureau Veritas surveyors
+- Supporting sea trials, commissioning, and final project delivery
+
+---
+
+# 📸 Project Gallery
+
+| Construction | Completed Vessel |
+|--------------|------------------|
+| *Add Image* | *Add Image* |
+
+| Sea Trials | Crane Operation |
+|------------|-----------------|
+| *Add Image* | *Add Image* |
+
+---
+
+# 🚀 Project Outcome
+
+✅ Successfully delivered to the **Bangladesh Coast Guard**
+
+✅ Fully compliant with **Bureau Veritas Class Rules**
+
+✅ Enhanced national capability for:
+
+- Rescue & Salvage Operations
+- Heavy Equipment Transportation
+- Ship Maintenance Support
+- Heavy Lifting Operations
+- Inland & Coastal Logistics
+
+---
+
+# ⭐ Key Achievements
+
+- Successfully coordinated one of Bangladesh's largest self-propelled floating crane projects.
+- Delivered the vessel on schedule while meeting client and classification requirements.
+- Coordinated multidisciplinary teams across design, production, procurement, and quality control.
+- Supported successful sea trials, commissioning, and final acceptance.
+
+---
+
+# 📬 Contact
+
+**Md Ariful Islam**
+
+Senior Naval Architect & Marine Engineer
+
+📧 ariful.buet1985@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/islam-mdariful
+
+🌐 GitHub: https://github.com/arifulislamnaval
+
+---
+
+<p align="center">
+<b>Delivering Innovative, Safe, Efficient, and Class-Compliant Marine Engineering Solutions.</b>
+</p>
