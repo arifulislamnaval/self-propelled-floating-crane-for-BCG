@@ -68,7 +68,7 @@ The **70 Ton Self-Propelled Floating Crane** was designed and constructed to str
 
 <img src="https://img.shields.io/badge/AutoCAD-Production%20Drawings-red?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/AVEVA%20Marine-Production%20Engineering-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fast%20Nest-Production%20Engineering-blueviolet?style=flat-square"/>
 
 </p>
 
