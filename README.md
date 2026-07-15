@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Coast Guard (BCG)</b><br>
-Project Coordinator | Naval Architect | Design Review | Class Compliance
+Project Coordination | Naval Architect | Design Review | Class Compliance
 </p>
 
 <p align="center">
