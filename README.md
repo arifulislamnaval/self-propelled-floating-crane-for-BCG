@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Coast Guard (BCG)</b><br>
-Project Coordination | Naval Architect | Design Review | Class Compliance
+Project Coordinator | Naval Architect | Design Review | Class Compliance
 </p>
 
 <p align="center">
@@ -19,43 +19,65 @@ Project Coordination | Naval Architect | Design Review | Class Compliance
 
 ---
 
-## Project Overview
+## 📌 Project Summary
 
-Delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh Coast Guard** under **Bureau Veritas (BV)** classification, supporting heavy-lift, salvage, and marine logistics operations.
+Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh Coast Guard**, supporting heavy-lift, salvage, maintenance, and marine logistics operations. The project was executed under **Bureau Veritas (BV)** classification, encompassing engineering coordination, design review, class compliance, construction support, and commissioning.
 
 | **Client** | Bangladesh Coast Guard |
-|------------|------------------------|
-| **Role** | Naval Architect |
-| **Class** | Bureau Veritas |
+|:-----------|:-----------------------|
+| **Role** | Project Coordinator & Naval Architect |
+| **Classification** | Bureau Veritas (BV) |
 | **Delivery** | 11 May 2022 |
 
 ---
 
-## Key Responsibilities
+## 📐 Key Particulars
 
-- Coordinated engineering, production, procurement, and construction activities.
-- Reviewed design and production documents for contract and **BV** compliance.
-- Managed technical coordination with client, shipyard, vendors, and class surveyors.
-- Supported construction, inspections, sea trials, commissioning, and delivery.
-
----
-
-## Core Expertise
-
-**Ship Design • Structural Engineering • Class Compliance • Project Management • Construction Support • Technical Coordination • Quality Assurance**
+| Parameter | Value |
+|:----------|------:|
+| Length Overall | **41.0 m** |
+| Crane Capacity | **70 Ton** |
+| Maximum Speed | **8 knots** |
 
 ---
 
-## Engineering Tools
+## 👨‍💼 Engineering Contributions
 
-**Maxsurf • Rhino3D • ANSYS • AutoCAD • FastNEST**
+- Coordinated multidisciplinary engineering, production, procurement, and construction activities.
+- Reviewed structural, production, and technical documentation for contractual and **BV** compliance.
+- Managed technical coordination with the client, shipyard teams, vendors, and class surveyors.
+- Supported construction, inspections, sea trials, commissioning, and final delivery.
+- Ensured compliance with quality standards, project schedule, and classification requirements.
 
 ---
 
-## Contact
+## 💻 Engineering Tools
 
-**Md. Ariful Islam**  
-Senior Naval Architect | Ship Design | Structural Engineering | Project Management
+**AVEVA Marine • Maxsurf • Rhino3D • ANSYS • AutoCAD • FastNEST**
 
-📧 ariful.buet1985@gmail.com  
+---
+
+## ⭐ Core Competencies
+
+**Ship Design • Structural Engineering • Design Review • Production Engineering • Class Compliance • Technical Coordination • Project Management • Construction Support • Quality Assurance • Commissioning**
+
+---
+
+## 📷 Project Gallery
+
+<p align="center">
+  <img src="./Construction.jpg" alt="Construction Phase" width="48%">
+  <img src="./SeaTrial.jpg" alt="Sea Trial" width="48%">
+</p>
+
+---
+
+## 📬 Contact
+
+**Md. Ariful Islam**
+
+**Senior Naval Architect | Ship Design | Structural Engineering | Project Management | Class Compliance**
+
+📧 ariful.buet1985@gmail.com
+
 💼 https://linkedin.com/in/islam-mdariful
