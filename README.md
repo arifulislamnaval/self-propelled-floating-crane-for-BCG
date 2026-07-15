@@ -78,7 +78,6 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 </td>
 </tr>
 </table>
----
 
 ## 📬 Contact
 
