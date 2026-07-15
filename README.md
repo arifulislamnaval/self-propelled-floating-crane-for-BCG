@@ -21,7 +21,7 @@ Project Coordinator | Naval Architect | Design Review | Class Compliance
 
 ## 📌 Project Summary
 
-Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh Coast Guard**, supporting heavy-lift, salvage, maintenance, and marine logistics operations. The project was executed under **Bureau Veritas (BV)** classification, encompassing engineering coordination, design review, class compliance, construction support, and commissioning.
+Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh Coast Guard**, supporting heavy-lift, salvage, maintenance, and marine logistics operations. The project was executed under **Bureau Veritas (BV)** classification, encompassing engineering coordination, design review, stability, class compliance, construction support, and commissioning.
 
 | **Client** | Bangladesh Coast Guard |
 |:-----------|:-----------------------|
