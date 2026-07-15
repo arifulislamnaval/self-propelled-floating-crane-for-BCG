@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Coast Guard (BCG)</b><br>
-Project Coordinator | Naval Architect | Design Review | Stability Analysis | Class Compliance
+Project Coordinator | Naval Architect | Structural Detailed Design | Stability Analysis | Class Compliance
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Project Coordinator | Naval Architect | Design Review | Stability Analysis | Cla
 
 ## 📌 Project Summary
 
-Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh Coast Guard**, supporting heavy-lift, salvage, maintenance, and marine logistics operations. Executed under **Bureau Veritas (BV)** classification, the project involved engineering coordination, design review, hydrostatic and stability verification, class compliance, construction support, and commissioning.
+Successfully delivered a **41 m, 70-ton Self-Propelled Floating Crane** for the **Bangladesh Coast Guard** under **Bureau Veritas (BV)** classification. My responsibilities included engineering coordination, structural detailed design, hydrostatic and stability analysis, design review, class compliance, construction support, and commissioning to ensure the vessel met contractual, regulatory, and operational requirements.
 
 | **Client** | Bangladesh Coast Guard |
 |:-----------|:-----------------------|
@@ -45,11 +45,12 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 
 ## 👨‍💼 Engineering Contributions
 
-- Coordinated multidisciplinary engineering, production, procurement, and construction activities throughout the project lifecycle.
-- Reviewed structural, production, and technical documentation for contractual compliance and **Bureau Veritas (BV)** approval.
+- Coordinated engineering, production, procurement, and construction throughout the project lifecycle.
+- Prepared and reviewed **structural detailed drawings** in accordance with project specifications and **Bureau Veritas (BV)** Rules.
 - Performed **hydrostatic calculations, stability analysis, weight estimation, and loading condition verification** to ensure compliance with statutory and class stability requirements.
+- Reviewed structural, production, and technical documentation for contractual and classification compliance.
 - Coordinated technical activities between the client, shipyard departments, vendors, and Bureau Veritas surveyors.
-- Resolved engineering issues during construction and provided technical support to production teams.
+- Provided engineering support during construction, resolving technical issues and design changes.
 - Supported inspections, inclining experiment, sea trials, commissioning, and final delivery.
 - Ensured compliance with classification rules, quality standards, project schedule, and client requirements.
 
@@ -57,13 +58,13 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 
 ## ⭐ Technical Expertise Demonstrated
 
-**Ship Design • Hydrostatics & Stability • Structural Engineering • Design Review • Production Engineering • Weight Control • Class Compliance • Technical Coordination • Project Management • Construction Support • Quality Assurance • Commissioning**
+**Ship Design • Structural Detailed Design • Hydrostatics & Stability • Structural Engineering • Production Engineering • Design Review • Weight Control • Class Compliance • Technical Coordination • Project Management • Construction Support • Quality Assurance • Commissioning**
 
 ---
 
 ## 💻 Engineering Software
 
-**AVEVA Marine • Maxsurf (Hydrostatics & Stability) • Rhino3D • ANSYS • AutoCAD • FastNEST**
+**AVEVA Marine • AutoCAD • Maxsurf (Hydrostatics & Stability) • Rhino3D • ANSYS • FastNEST**
 
 ---
 
@@ -89,7 +90,7 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Stability Analysis | Project Management | Class Compliance**
+**Senior Naval Architect | Ship Design | Structural Engineering | Stability Analysis | Project Management | Classification Compliance**
 
 📧 **ariful.buet1985@gmail.com**
 
