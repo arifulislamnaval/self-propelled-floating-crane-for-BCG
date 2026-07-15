@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Coast Guard (BCG)</b><br>
-Project Coordinator | Naval Architect | Design Review | Class Compliance
+Project Coordinator | Naval Architect | Design Review | Stability Analysis | Class Compliance
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Project Coordinator | Naval Architect | Design Review | Class Compliance
 
 ## 📌 Project Summary
 
-Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh Coast Guard**, supporting heavy-lift, salvage, maintenance, and marine logistics operations. The project was executed under **Bureau Veritas (BV)** classification, encompassing engineering coordination, design review, stability, class compliance, construction support, and commissioning.
+Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh Coast Guard**, supporting heavy-lift, salvage, maintenance, and marine logistics operations. Executed under **Bureau Veritas (BV)** classification, the project involved engineering coordination, design review, hydrostatic and stability verification, class compliance, construction support, and commissioning.
 
 | **Client** | Bangladesh Coast Guard |
 |:-----------|:-----------------------|
@@ -36,6 +36,8 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 | Parameter | Value |
 |:----------|------:|
 | Length Overall | **41.0 m** |
+| Breadth | **15.0 m** |
+| Draft | **1.65 m** |
 | Crane Capacity | **70 Ton** |
 | Maximum Speed | **8 knots** |
 
@@ -43,23 +45,25 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 
 ## 👨‍💼 Engineering Contributions
 
-- Coordinated multidisciplinary engineering, production, procurement, and construction activities.
-- Reviewed structural, production, and technical documentation for contractual and **BV** compliance.
-- Managed technical coordination with the client, shipyard teams, vendors, and class surveyors.
-- Supported construction, inspections, sea trials, commissioning, and final delivery.
-- Ensured compliance with quality standards, project schedule, and classification requirements.
+- Coordinated multidisciplinary engineering, production, procurement, and construction activities throughout the project lifecycle.
+- Reviewed structural, production, and technical documentation for contractual compliance and **Bureau Veritas (BV)** approval.
+- Performed **hydrostatic calculations, stability analysis, weight estimation, and loading condition verification** to ensure compliance with statutory and class stability requirements.
+- Coordinated technical activities between the client, shipyard departments, vendors, and Bureau Veritas surveyors.
+- Resolved engineering issues during construction and provided technical support to production teams.
+- Supported inspections, inclining experiment, sea trials, commissioning, and final delivery.
+- Ensured compliance with classification rules, quality standards, project schedule, and client requirements.
 
 ---
 
-## 💻 Engineering Tools
+## ⭐ Technical Expertise Demonstrated
 
-**AVEVA Marine • Maxsurf • Rhino3D • ANSYS • AutoCAD • FastNEST**
+**Ship Design • Hydrostatics & Stability • Structural Engineering • Design Review • Production Engineering • Weight Control • Class Compliance • Technical Coordination • Project Management • Construction Support • Quality Assurance • Commissioning**
 
 ---
 
-## ⭐ Core Competencies
+## 💻 Engineering Software
 
-**Ship Design • Structural Engineering • Design Review • Production Engineering • Class Compliance • Technical Coordination • Project Management • Construction Support • Quality Assurance • Commissioning**
+**AVEVA Marine • Maxsurf (Hydrostatics & Stability) • Rhino3D • ANSYS • AutoCAD • FastNEST**
 
 ---
 
@@ -79,12 +83,20 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 </tr>
 </table>
 
+---
+
 ## 📬 Contact
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Project Management | Class Compliance**
+**Senior Naval Architect | Ship Design | Structural Engineering | Stability Analysis | Project Management | Class Compliance**
 
-📧 ariful.buet1985@gmail.com
+📧 **ariful.buet1985@gmail.com**
 
-💼 https://linkedin.com/in/islam-mdariful
+💼 **https://linkedin.com/in/islam-mdariful**
+
+---
+
+<p align="center">
+<b>Delivering Safe, Class-Compliant, and Production-Ready Marine Engineering Solutions.</b>
+</p>
