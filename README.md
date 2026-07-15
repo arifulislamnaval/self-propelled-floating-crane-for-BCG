@@ -25,7 +25,7 @@ Delivered a **41 m, 70-ton self-propelled floating crane** for the **Bangladesh 
 
 | **Client** | Bangladesh Coast Guard |
 |------------|------------------------|
-| **Role** | Project Coordinator & Naval Architect |
+| **Role** | Naval Architect |
 | **Class** | Bureau Veritas |
 | **Delivery** | 11 May 2022 |
 
