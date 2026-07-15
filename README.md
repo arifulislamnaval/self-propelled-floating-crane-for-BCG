@@ -67,7 +67,7 @@ Successfully delivered a **41 m, 70-ton self-propelled floating crane** for the 
 
 <p align="center">
   <img src="./Construction.jpg" alt="Construction Phase" width="48%">
-  <img src="./SeaTrial.jpg" alt="Sea Trial" width="48%">
+  <img src="./Trial.jpg" alt="Trial" width="48%">
 </p>
 
 ---
