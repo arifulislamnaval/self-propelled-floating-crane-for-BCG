@@ -68,23 +68,6 @@ Successfully delivered a **41 m, 70-ton Self-Propelled Floating Crane** for the 
 
 ---
 
-## 📷 Project Gallery
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="./Construction.jpg" width="450"><br>
-<b>Construction Phase</b>
-</td>
-
-<td align="center">
-<img src="./Trial.JPG" width="450"><br>
-<b>Sea Trials & Commissioning</b>
-</td>
-</tr>
-</table>
-
----
 
 ## 📬 Contact
 
