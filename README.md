@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Coast Guard (BCG)</b><br>
-Project Coordinator | Naval Architect | Structural Detailed Design | Stability Analysis | Class Compliance
+Project Coordinator | Senior Naval Architect | Structural Engineering | Stability Analysis | Bureau Veritas Compliance
 </p>
 
 <p align="center">
@@ -21,21 +21,26 @@ Project Coordinator | Naval Architect | Structural Detailed Design | Stability A
 
 ## 📌 Project Summary
 
-Successfully delivered a **41 m, 70-ton Self-Propelled Floating Crane** for the **Bangladesh Coast Guard** under **Bureau Veritas (BV)** classification. My responsibilities included engineering coordination, structural detailed design, hydrostatic and stability analysis, design review, class compliance, construction support, and commissioning to ensure the vessel met contractual, regulatory, and operational requirements.
+Successfully delivered a **41 m, 70-ton Self-Propelled Floating Crane** for the **Bangladesh Coast Guard**, designed and constructed in accordance with **Bureau Veritas (BV)** classification requirements.
+
+As **Project Coordinator and Senior Naval Architect**, I coordinated multidisciplinary engineering activities while leading **structural engineering, stability analysis, design review, class compliance, and construction support**, ensuring successful delivery from design approval through commissioning.
 
 | **Client** | Bangladesh Coast Guard |
 |:-----------|:-----------------------|
-| **Role** | Project Coordinator & Naval Architect |
+| **Vessel Type** | Self-Propelled Floating Crane |
+| **Lifting Capacity** | 70 Ton |
+| **Role** | Project Coordinator & Senior Naval Architect |
+| **Scope** | Structural Engineering • Stability Analysis • Design Review • Class Compliance • Construction Support |
 | **Classification** | Bureau Veritas (BV) |
 | **Delivery** | 11 May 2022 |
 
 ---
 
-## 📐 Key Particulars
+## 📐 Principal Particulars
 
 | Parameter | Value |
 |:----------|------:|
-| Length Overall | **41.0 m** |
+| Length Overall (LOA) | **41.0 m** |
 | Breadth | **15.0 m** |
 | Draft | **1.65 m** |
 | Crane Capacity | **70 Ton** |
@@ -45,35 +50,36 @@ Successfully delivered a **41 m, 70-ton Self-Propelled Floating Crane** for the 
 
 ## 👨‍💼 Engineering Contributions
 
-- Coordinated engineering, production, procurement, and construction throughout the project lifecycle.
-- Prepared and reviewed **structural detailed drawings** in accordance with project specifications and **Bureau Veritas (BV)** Rules.
-- Performed **hydrostatic calculations, stability analysis, weight estimation, and loading condition verification** to ensure compliance with statutory and class stability requirements.
-- Reviewed structural, production, and technical documentation for contractual and classification compliance.
-- Coordinated technical activities between the client, shipyard departments, vendors, and Bureau Veritas surveyors.
-- Provided engineering support during construction, resolving technical issues and design changes.
-- Supported inspections, inclining experiment, sea trials, commissioning, and final delivery.
-- Ensured compliance with classification rules, quality standards, project schedule, and client requirements.
+- Coordinated engineering, production, procurement, quality assurance, and construction activities throughout the project lifecycle.
+- Led structural engineering and prepared structural production drawings in accordance with **Bureau Veritas Rules** and contractual specifications.
+- Performed **hydrostatic calculations, stability analysis, weight estimation, and loading condition assessments** using **Maxsurf**.
+- Conducted engineering design reviews to verify structural integrity, constructability, and compliance with class and statutory requirements.
+- Coordinated technical discussions among designers, production teams, equipment suppliers, client representatives, and Bureau Veritas surveyors.
+- Managed engineering revisions, technical documentation, and approval processes during construction.
+- Supported fabrication, inspections, inclining experiment, harbour acceptance tests, sea trials, and final commissioning.
+- Successfully delivered the vessel in compliance with project schedule, quality objectives, contractual requirements, and Bureau Veritas classification standards.
 
 ---
 
 ## ⭐ Technical Expertise Demonstrated
 
-**Ship Design • Structural Detailed Design • Hydrostatics & Stability • Structural Engineering • Production Engineering • Design Review • Weight Control • Class Compliance • Technical Coordination • Project Management • Construction Support • Quality Assurance • Commissioning**
+**Project Coordination • Structural Engineering • Production Engineering • Hydrostatics • Stability Analysis • Weight Control • Design Review • Bureau Veritas Compliance • Technical Documentation • Construction Support • Harbour Acceptance Tests • Sea Trials • Commissioning**
 
 ---
 
 ## 💻 Engineering Software
 
-**AVEVA Marine • AutoCAD • Maxsurf (Hydrostatics & Stability) • Rhino3D • ANSYS • FastNEST**
+**AVEVA Marine • Maxsurf • AutoCAD • Rhino3D • ANSYS • FastNEST**
 
 ---
-
 
 ## 📬 Contact
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Stability Analysis | Project Management | Classification Compliance**
+**Senior Naval Architect & Marine Engineer**
+
+*Ship Design • Structural Engineering • Stability Analysis • Project Engineering • Classification Compliance*
 
 📧 **ariful.buet1985@gmail.com**
 
