@@ -29,7 +29,7 @@ As **Project Coordinator and Senior Naval Architect**, I coordinated multidiscip
 |:-----------|:-----------------------|
 | **Vessel Type** | Self-Propelled Floating Crane |
 | **Lifting Capacity** | 70 Ton |
-| **Role** | Project Coordinator & Senior Naval Architect |
+| **Role** | Project Coordinator & Naval Architect |
 | **Scope** | Structural Engineering • Stability Analysis • Design Review • Class Compliance • Construction Support |
 | **Classification** | Bureau Veritas (BV) |
 | **Delivery** | 11 May 2022 |
